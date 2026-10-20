@@ -1,5 +1,6 @@
 # Weather & Air Quality ETL Pipeline
 
+![Tests](https://github.com/Shivam25-stack/weather-etl-pipeline/actions/workflows/tests.yml/badge.svg)
 An end-to-end data engineering project: it pulls hourly weather and air-quality
 data for several cities from free public APIs, validates it, and loads it into a
 DuckDB warehouse that powers a Streamlit dashboard.
